@@ -109,3 +109,4 @@ Peak months indicate strong seasonality — inventory must align with demand
 Revenue drivers identified using influencer analysis can be leveraged for growth
 
 ## Snapshot of the Dashboard
+![Dashboard Preview](https://github.com/Astitvasinghbhandari/Sales_Dashboard/blob/main/Sales.Dashboard.png)
