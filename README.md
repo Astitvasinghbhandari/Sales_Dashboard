@@ -1,5 +1,5 @@
 # Hamleys USA Sales Performance Dashboard
-## Business Objective 
+## 1. Business Objective 
 This project focuses on analyzing retail sales performance for Hamleys USA across multiple stores and cities.
 
 The primary objective is to evaluate:
